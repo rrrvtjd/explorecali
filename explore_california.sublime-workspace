@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"sc",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/jqmobile-esst/ExampleSnippets.txt",
+			"settings":
+			{
+				"buffer_size": 25948,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "This is a file to delete.",
+			"file": "/C/Users/aarons/Documents/first_git/file_to_delete2.txt",
+			"file_size": 25,
+			"file_write_time": 130214480514496540,
+			"settings":
+			{
+				"buffer_size": 25,
+				"line_ending": "Windows",
+				"name": "This is my first file."
+			}
+		},
+		{
+			"file": "/C/Users/aarons/Documents/first_git/first_file.txt",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/aarons/Documents/first_git/second_file.txt",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/jqmobile-esst/Ch_7/touchevents_start.html",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/fetch-Extract_dataFromDB_JS-jQ-JSON-AJAX/index.html",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/fetch-Extract_dataFromDB_JS-jQ-JSON-AJAX/my_script.js",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/fetch-Extract_dataFromDB_JS-jQ-JSON-AJAX/db.php",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/fetch-Extract_dataFromDB_JS-jQ-JSON-AJAX/fetch.php",
+		"/C/Users/aarons/Desktop/Ex_Nodejs/3Modules/1What-is-a-module/script.js",
+		"/C/xampp/htdocs/bootstrap/Chapter 3/03-04/schedule.html",
+		"/C/xampp/htdocs/Ex_Nodejs/2 Getting Started/1 Running a Node script/script.js",
+		"/C/Users/aarons/Desktop/Ex_Nodejs/2GettingStarted/1RunningNodescript/script.js",
+		"/C/xampp/htdocs/Ex_Nodejs/2 Getting Started/3 Restarting scripts automatically/script.js",
+		"/C/xampp/htdocs/bootstrap/Chapter 3/03-03/schedule.html",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/insertData2mysqldb_using_jQ-ajx-php/my_script-withcomments.js",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/insertData2mysqldb_using_jQ-ajx-php/db.php",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/insertData2mysqldb_using_jQ-ajx-php/userInfo.php",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/insertData2mysqldb_using_jQ-ajx-php/index.html",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/insertData2mysqldb_using_jQ-ajx-php/my_script.js",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/objects-arrays-JSON/json_data.json",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/objects-arrays-JSON/index.html",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/objects-arrays-JSON/my_script.js",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/jsonArrayFetch/index.html",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/jsonArrayFetch/json_data.json",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/jsonArrayFetch/my_script.js",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/getJSON/index.html",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/getJSON/json_data.json",
+		"/C/xampp/htdocs/Youtube/jQuery-videos/getJSON/my_script.js",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/04-01/workingfolder/ajax/script.js",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/04-01/workingfolder/ajax/index.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/04-01/workingfolder/ajax/mystyle.css",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/04-01/workingfolder/ajax/data.txt",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/04-01/workingfolder/ajax/data.xml",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/04-01/workingfolder/ajax/data.json",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/04-01/finished/ajax/index.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/03-03/workingfolder/ajax/index.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/03-03/workingfolder/ajax/data.json",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/03-03/workingfolder/ajax/script.js",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/03-02/workingfolder/ajax/index.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/03-02/workingfolder/ajax/script.js",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-05/workingfolder/ajax/script.js",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-04/workingfolder/ajax/script.js",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-04/workingfolder/ajax/data.json",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-04/workingfolder/ajax/index.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-05/workingfolder/ajax/index.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-03/workingfolder/ajax/data.xml",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-03/workingfolder/ajax/index.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-03/workingfolder/ajax/script.js",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-01/workingfolder/ajax/index.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-02/workingfolder/ajax/index.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-02/workingfolder/ajax/data.txt",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-02/workingfolder/ajax/script.js",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-02/finished/ajax/script.js",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/02-01/workingfolder/ajax/script.js",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/01-02/workingfolder/ajax/index.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/01-02/workingfolder/ajax/script.js",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_7/externalpage.html",
+		"/C/xampp/htdocs/learn/Ex_files_jsajax/01-02/workingfolder/ajax/data.txt",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_6/theme_tester.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_6/collapsesets_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_6/collapseblocks_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_6/grids_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_6/grids_finished.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_5/listviewfilter_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_5/splitbuttons_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_5/nestedlist_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_5/listviewrich_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_5/listviewicons_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_5/listviewrich_finished.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_5/basiclistview_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_5/listviewdivider_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_5/countbubble_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_4/radioschecks_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_4/selectbasic_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_4/slider_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_4/selectgroup_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_4/selectcustom_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_4/toggle_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_4/inputs_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_4/formbasics_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_3/buttons_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_3/navposition_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_3/navbar_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_3/headersfooters_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_3/headersfooters_finished.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_2/using_dialogs_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_2/pagetransitions_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_2/pagenav_start.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_2/externalpage1.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_2/externalpage2.html",
+		"/C/xampp/htdocs/jqmobile-esst/Ch_1/first_jqmobile_start.html",
+		"/C/Users/aarons/Desktop/learn/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/index.htm",
+		"/C/xampp/htdocs/ExerciseVPF_JS_PHP/05-02/workingfolder/forms/process.php",
+		"/C/Users/aarons/Desktop/learn/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/_scripts/SpryTabbedPanels.js",
+		"/C/Users/aarons/Downloads/VENICE/css/styles.css",
+		"/C/Users/aarons/Downloads/VENICE/index.html",
+		"/C/Users/aarons/Downloads/VENICE/enrollment/how-to.html",
+		"/C/Users/aarons/Downloads/VENICE/enrollment/howto_faq.html",
+		"/C/Users/aarons/Downloads/VENICE/ven-home/index.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"root",
+			"localhost",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/jqmobile-esst/ExampleSnippets.txt",
+					"settings":
+					{
+						"buffer_size": 25948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23159,
+								23605
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1701.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/aarons/Documents/first_git/file_to_delete2.txt",
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"auto_name": "This is my first file.",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/aarons/Documents/first_git/first_file.txt",
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/aarons/Documents/first_git/second_file.txt",
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/aarons/Desktop/learn/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/roux_website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 126.0,
+	"status_bar_visible": true
+}
